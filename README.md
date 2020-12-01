@@ -1,3 +1,5 @@
+Prerequisite: Please have Maven installed
+
 Execution through cmd:
 
 1- Pull the code to your local repo
